@@ -2,7 +2,7 @@
   "name": "dml-trigger-allornone-test",
   "private": true,
   "version": "1.0.0",
-  "description": "DML trigger all or none test",
+  "description": "Apex DML trigger all or none test",
   "scripts": {
     "prettier": "prettier --write \"**/*.{cls,cmp,component,css,html,js,json,md,page,trigger,xml,yaml,yml}\"",
     "prettier:verify": "prettier --list-different \"**/*.{cls,cmp,component,css,html,js,json,md,page,trigger,xml,yaml,yml}\""
